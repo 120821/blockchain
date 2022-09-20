@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.12",
+    "dotenv": "^16.0.1",
+    "ganache-cli": "^6.12.2",
+    "web3": "^0.19.1"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.26"
+  },
+  "name": "blockchain",
+  "version": "1.0.0",
+  "main": "call_getter_setter.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
