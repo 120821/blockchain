@@ -1,0 +1,5 @@
+node_modules
+*/node_modules/*
+./contract_on_goerli_using_infura/node_modules
+contract_on_goerli_using_infura/node_modules/
+*.swp
